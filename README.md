@@ -29,8 +29,8 @@ Por eso, usando FLASHGBX como base, me di a la tarea de crear una **interfaz ami
 ---
 
 ## 🕹️ Instrucciones
-1. Tener instalado **FLASHGBX**.  
-2. Tener instalado el emulador **mGBA**.  
+1. Tener instalado **FLASHGBX**. (NO USAR VERSIÓN PORTABLE)
+2. Tener instalado el emulador **mGBA**. (NO USAR VERSION PORTABLE)
 3. Dentro de la carpeta descargada encontrarás la carpeta `PORTADAS`, donde puedes colocar las portadas de tu librería.  
 
    Puedes descargarlas desde los siguientes repositorios oficiales de **Libretro Thumbnails**:  
