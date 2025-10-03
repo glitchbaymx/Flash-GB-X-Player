@@ -77,8 +77,8 @@ That’s why, using FLASHGBX as a base, I created a **user-friendly interface** 
 ---
 
 ## 🕹️ Instructions
-1. Install **FLASHGBX**.  
-2. Install the **mGBA emulator**.  
+1. Install **FLASHGBX**. (NOT PORTABLE VERSION SUPPORTED)
+2. Install the **mGBA emulator**. (NOT PORTABLE VERSION SUPPORTED)
 3. Inside the downloaded folder, you will find the `PORTADAS` folder where you can place your cover art library.  
 
    You can download them from the official **Libretro Thumbnails** repositories:  
